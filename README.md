@@ -25,7 +25,7 @@ This dashboard is part of a transformer monitoring and condition prediction syst
 * [React.js](https://reactjs.org/)
 * [TailwindCSS](https://tailwindcss.com/)
 * [Chart.js](https://www.chartjs.org/)
-* [Vite](https://vitejs.dev/) *(if used)*
+* [AWS](https://aws.amazon.com)
 
 ---
 
