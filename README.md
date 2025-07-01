@@ -31,7 +31,10 @@ This dashboard is part of a transformer monitoring and condition prediction syst
 
 ### 🌐 Preview
 
-![Dashboard Preview](./preview.png)
+![Login Preview](./Preview-login.png)
+![Dashboard1 Preview](./Preview-dashboard1.png)
+![Dashboard2 Preview](./Preview-dashboard2.png)
+![Dashboard3 Preview](./Preview-dashboard3.png)
 
 ---
 
